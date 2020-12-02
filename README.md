@@ -11,5 +11,5 @@ reg_tools
 ![image](https://github.com/lzwwiner/reg_tools/blob/master/img/big-to-small.png)
 
 浏览器的寄存器工具界面：
-从大到小
+从小到大
 ![image](https://github.com/lzwwiner/reg_tools/blob/master/img/small-to-big.png)
